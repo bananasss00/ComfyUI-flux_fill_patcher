@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-flux_fill_patcher"
+description = "flux patcher for Fill Flux.Dev lora [a/https://civitai.com/models/981615/fluxfill-inpaint-lora](https://civitai.com/models/981615/fluxfill-inpaint-lora)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/bananasss00/ComfyUI-flux_fill_patcher"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-flux_fill_patcher"
+Icon = ""
